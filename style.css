@@ -122,7 +122,6 @@ nav {
   color: white;
 }
 
-
 /* Header */
 
 header .row {
@@ -219,4 +218,28 @@ header {
 .header__img {
   width: 100%;
   max-width: 768px;
+}
+
+main .container {
+  padding: 96px;
+}
+
+.row_narrow {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.section__tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #6415ff;
+}
+
+.section__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 16px 0px;
 }
